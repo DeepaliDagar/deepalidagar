@@ -1,6 +1,5 @@
 ### Deepali Dagar | Data Science Professional&nbsp;
-
-<span style="background-color: #FF0000;">Data Science Master's student from the University of Chicago, with a strong foundation in machine learning, data engineering, and data visualization.</span>
+Data Science Master's student from the University of Chicago, with a strong foundation in machine learning, data engineering, and data visualization.
 
 ### 🛠️ Tech Stacks
 
