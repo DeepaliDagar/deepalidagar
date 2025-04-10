@@ -1,6 +1,6 @@
 ### Deepali Dagar | Data Science Professional 
 
-Data Science Master's student with hands-on experience in machine learning, data storytelling, and customer analytics. Skilled in Python, SQL, and statistical modeling, with a strong foundation in analyzing structured and unstructured data to uncover actionable insights. Building expertise in generative AI/LLMs and computer vision.
+Data Science Master's student at University of Chicago.
 
 ### 🛠️ Tech Stacks
 
