@@ -1,6 +1,6 @@
-### Deepali Dagar | Data Science Professional 
+### Deepali Dagar | Data Science Professional&nbsp;
 
-Data Science Master's student at the University of Chicago.
+<span style="background-color: #FFFFE0;">Data Science Master's student from the University of Chicago, with a strong foundation in machine learning, data engineering, and data visualization.</span>
 
 ### 🛠️ Tech Stacks
 
@@ -8,7 +8,6 @@ Data Science Master's student at the University of Chicago.
 * **Data Visualization:** Tableau, Power BI, Matplotlib, MS Excel
 * **Big Data:** Google Cloud Platform (GCP), AWS, Spark, Docker, Hadoop, Hive, MapReduce
 * **Key Skills:** Supervised and Unsupervised Machine Learning, Predictive Modeling, Data Modeling, Feature Engineering
-
 
 ### 🎓 Key Coursework
 
@@ -26,5 +25,12 @@ Data Science Master's student at the University of Chicago.
 * Calculus
 * Differential Equations
 * Algebra
+
+Currently working on: 
+* Gen AI-powered sentiment analysis and product suggestion system using Amazon reviews
+
+* Computer vision-based distance estimation model for vehicles (Capstone)
+
+
 ---
 
