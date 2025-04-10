@@ -1,6 +1,6 @@
 ### Deepali Dagar | Data Science Professional 
 
-Data Science Master's student at University of Chicago.
+Data Science Master's student at the University of Chicago.
 
 ### 🛠️ Tech Stacks
 
