@@ -2,6 +2,13 @@
 
 Data Science Master's student with hands-on experience in machine learning, data storytelling, and customer analytics. Skilled in Python, SQL, and statistical modeling, with a strong foundation in analyzing structured and unstructured data to uncover actionable insights. Building expertise in generative AI/LLMs and computer vision.
 
+### 🛠️ Tech Power
+
+* **Languages:** Python, SQL, R
+* **Visualization:** Tableau, Power BI, Excel
+* **Big Data:** GCP, Spark, AWS, Dataiku, Git
+* **Key Skills:** Predictive Modeling, Feature Engineering, Classification, Clustering, Unstructured Data, Generative AI
+
 
 ### 🛠️ Tech Stacks
 
