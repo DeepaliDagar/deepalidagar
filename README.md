@@ -14,10 +14,10 @@ Data Science Master's student with hands-on experience in machine learning, data
 
 * Machine Learning
 * Big Data and Cloud Computing
-* Python
 * Computer Vision
-* Data Structures and Algorithms
 * Generative AI
+* Data Structures and Algorithms
+* Python for Data Science
 * Statistics
 * Probability
 * Algorithmic Marketing
