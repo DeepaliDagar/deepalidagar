@@ -53,5 +53,20 @@ Data Science Master's student with hands-on experience in machine learning, data
   </a >
 </p>
 
+### 🎓 Key Coursework
+
+* Machine Learning
+* Big Data and Cloud Computing
+* Python
+* Computer Vision
+* Data Structures and Algorithms
+* Statistics
+* Probability
+* Algorithmic Marketing
+* Discrete Mathematics
+* Linear Algebra
+* Calculus
+* Differential Equations
+* Algebra
 ---
 
