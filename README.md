@@ -1,4 +1,4 @@
-([https://github.com/yourusername/images/main/profile.jpg](https://avatars.githubusercontent.com/u/90898561?s=400&u=3fccae992258db040dbef08f0aae7e6accb5899d&v=4))
+()
 ### Deepali Dagar | Data Science Professional 
 
 Data Science Master's student with hands-on experience in machine learning, data storytelling, and customer analytics. Skilled in Python, SQL, and statistical modeling, with a strong foundation in analyzing structured and unstructured data to uncover actionable insights. Building expertise in generative AI/LLMs and computer vision.
