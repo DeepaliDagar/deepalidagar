@@ -12,7 +12,6 @@ Data Science Master's student from the University of Chicago, with a strong foun
 
 * Machine Learning
 * Big Data and Cloud Computing
-* Computer Vision
 * Generative AI
 * Data Structures and Algorithms
 * Python for Data Science
