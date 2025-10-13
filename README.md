@@ -25,7 +25,7 @@ Data Science Master's student from the University of Chicago, with a strong foun
 * Algebra
 
 Currently working on: 
-* Gen AI-powered sentiment analysis and product suggestion system using Amazon reviews
+* Gen AI audio to audio E-commerce chatbot 
 
 * Computer vision-based distance estimation model for vehicles (Capstone)
 
