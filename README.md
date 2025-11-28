@@ -27,7 +27,8 @@ Data Science Master's student from the University of Chicago, with a strong foun
 Currently working on: 
 * Gen AI audio to audio E-commerce chatbot 
 
-* Computer vision-based distance estimation model for vehicles (Capstone)
+* Multi-Agent Customer Service System with A2A and MCP
+
 
 
 ---
