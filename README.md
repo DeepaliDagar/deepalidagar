@@ -1,6 +1,5 @@
 ### Deepali Dagar | Data Science Professional&nbsp;
-Data Science Master's student from the University of Chicago, with a strong foundation in machine learning, data engineering, and data visualization.
-
+Data Science Master's student from the University of Chicago, with a strong foundation in Machine Learning and Applied Generative AI
 ### Tech Stacks
 
 * **Languages & ML Frameworks:** Python (NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Keras), SQL, PySpark, R
