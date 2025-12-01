@@ -3,10 +3,12 @@ Data Science Master's student from the University of Chicago, with a strong foun
 
 ### Tech Stacks
 
-* **Languages:** Python (NumPy, Scikit-Learn, Pandas, Pytorch, Keras, Tensorflow), SQL, PySpark, R
-* **Data Visualization:** Tableau, Power BI, Matplotlib, MS Excel
-* **Big Data:** Google Cloud Platform (GCP), AWS, Spark, Docker, Hadoop, Hive, MapReduce
-* **Key Skills:** Supervised and Unsupervised Machine Learning, Predictive Modeling, Data Modeling, Feature Engineering
+* **Languages & ML Frameworks:** Python (NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Keras), SQL, PySpark, R
+* **GenAI & AI Tooling:** LangChain, LangGraph, Agents (A2A), Vector Databases (FAISS, Pinecone, ChromaDB), RAG Pipelines, Prompt Engineering, Whisper STT, TTS Models (Bark)
+* **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Excel
+* **Big Data & Cloud:** Google Cloud Platform (GCP), AWS, Spark, Hadoop, Hive, Docker, Kubernetes, MapReduce
+* **Key Skills:** Supervised & Unsupervised ML, Predictive Modeling, Deep Learning, Data Modeling, Feature Engineering, MLOps, LLM Apps & Agents
+
 
 ### Key Coursework
 
