@@ -3,10 +3,10 @@ Data Science Master's student from the University of Chicago, with a strong foun
 ### Tech Stacks
 
 * **Languages & ML Frameworks:** Python (NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, Keras), SQL, PySpark, R
-* **GenAI & AI Tooling:** LangChain, LangGraph, Agents (A2A), Vector Databases (FAISS, Pinecone, ChromaDB), RAG Pipelines, Prompt Engineering, Whisper STT, TTS Models (Bark)
+* **GenAI & AI Tooling:** LangChain, LangGraph, Agentic AI (A2A), Vector Databases (FAISS, Pinecone, ChromaDB), RAG Pipelines, Prompt Engineering, Whisper STT, TTS Models (Bark), Multi-Model Orchestration (MCP)
 * **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Excel
-* **Big Data & Cloud:** Google Cloud Platform (GCP), AWS, Spark, Hadoop, Hive, Docker, Kubernetes, MapReduce
-* **Key Skills:** Supervised & Unsupervised ML, Predictive Modeling, Deep Learning, Data Modeling, Feature Engineering, MLOps, LLM Apps & Agents
+* **Big Data & Cloud:** Google Cloud Platform (GCP), AWS, Spark, Hadoop, Hive, Docker, MapReduce
+* **Key Skills:** Supervised & Unsupervised ML, Predictive Modeling, Deep Learning, Feature Engineering, MLOps, LLM Applications & Agents
 
 
 ### Key Coursework
@@ -28,7 +28,7 @@ Data Science Master's student from the University of Chicago, with a strong foun
 Currently working on: 
 * Gen AI audio to audio E-commerce chatbot 
 
-* Multi-Agent Customer Service System with A2A and MCP
+* Multi-Agent Customer Service System leveraging A2A messaging and MCP for dynamic tool orchestration
 
 
 
