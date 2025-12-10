@@ -26,7 +26,7 @@ Data Science Master's student from the University of Chicago, with a strong foun
 * Algebra
 
 Currently working on: 
-* Gen AI audio to audio E-commerce chatbot 
+* GenAI Audio-to-Audio E-commerce Chatbot: Voice-based product assistant using Whisper STT, ChromaDB vector search, and OpenAI TTS for context-aware recommendations. 
 
 * Multi-Agent Customer Service System leveraging A2A messaging and MCP for dynamic tool orchestration
 
